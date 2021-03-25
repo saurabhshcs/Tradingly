@@ -4,7 +4,9 @@
 
   
   
-  
+>  Agenda
+- Create a home page that will show market statistics (NSE/BSE).
+- When user clicks over the trade now button then allow user to trade through option.
   
   
   
