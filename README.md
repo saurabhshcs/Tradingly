@@ -9,9 +9,11 @@
 - When user clicks over the trade now button then allow user to trade through option.
   
   
-###Task-1
+### Task-1
 - Need to find the way to integrate the live stock index streaming
 - Customer redirection to appropriate broker.
   
+  
+> Tried to find out the more details on online trading platforms unfirtunately, didn't find anything yet. 
   
 Follow me on - [Medium](https://saurabhshcs.medium.com) | [Linkedin](https://www.linkedin.com/in/saurabhshcs/) | [YouTube](https://www.youtube.com/channel/UCSQqjPw7_tfx1Ie4yYHbcxQ?pbjreload=102) | [StackOverFlow](https://stackoverflow.com/users/10719720/saurabhshcs?tab=profile)
